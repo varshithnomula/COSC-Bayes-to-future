@@ -1,10 +1,10 @@
-# 💡 Bayes to the Future: Predicting Heart Disease with Data!
+#  Bayes to the Future: Predicting Heart Disease with Data!
 
 Welcome to **MediMystery Labs**! In this project, we build a Bayesian Network to predict heart disease risk using a dataset of simulated patient records.
 
 ---
 
-## 🧪 Project Overview
+##  Project Overview
 
 As a Data Detective, your mission is to:
 - Clean and preprocess patient data (`heart_disease.csv`)
@@ -15,7 +15,7 @@ As a Data Detective, your mission is to:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - Python 🐍
 - Pandas, NumPy, scikit-learn
@@ -24,7 +24,7 @@ As a Data Detective, your mission is to:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Download** the following files from this repo:
    - `bayes_heart_predictor.ipynb`
